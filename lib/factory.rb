@@ -38,6 +38,6 @@ a = User.new 'Bond', 'Aqw'
 Factory::Factory.new {puts "HELLO"}
 p a.name
 p a[:name]
-p a.sernafme
+p a.sername
 p a[0]
 p a['name']
